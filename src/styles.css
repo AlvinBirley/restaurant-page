@@ -1,0 +1,25 @@
+body {
+    background-color: brown;
+}
+
+#content {
+    min-height: 110vh;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.top-image {
+    margin: 25px;
+}
+
+.landing-page-copy {
+    color: whitesmoke;
+    font-family: "Gill Sans", "Gill Sans MT";
+    font-weight: 900;
+    font-style: italic;
+}
+
+.landing-title {
+    
+}
