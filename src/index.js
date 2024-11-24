@@ -4,3 +4,8 @@ import "./styles.css";
 import { test } from "./exporter.js";
 
 console.log(test);
+
+//importing function from exporter.js
+import {homeLoad} from "./exporter.js";
+
+document.addEventListener('DOMContentLoaded', homeLoad);
